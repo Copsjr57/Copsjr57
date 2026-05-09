@@ -78,7 +78,7 @@ Errors:
 ```txt
 Loading real skills...
 
-[█████████░] Googling errors professionally
+[█████████] Googling errors professionally
 [███████░░░] Linux debugging
 [████████░░] "It works on my machine"
 [██░░░░░░░░] Cable management
