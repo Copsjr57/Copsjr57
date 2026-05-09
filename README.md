@@ -1,117 +1,143 @@
 <div align="center">
 
-# Copsjr57
+# [ ACCESSING USER PROFILE ]
 
 ```txt
-Booting student profile...
-Loading network packets...
-Establishing SSH connection...
-Access granted.
+Connection established.
+Decrypting student data...
+
+██████████████████ 100%
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:1e293b&text=Réseaux%20%7C%20Télécoms%20%7C%20Projets&fontColor=ffffff&fontSize=35&animation=fadeIn" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Student+in+Networks+%26+Telecoms;Professional+Cable+Unplugger;Future+Linux+Victim;Currently+fighting+with+Cisco;Turning+caffeine+into+projects" />
 
 </div>
 
 ---
 
-## whoami
+# sudo apt install personality
 
 ```bash
-> whoami
+$ whoami
 
-Name: Koko
-Age: 18
-Role: Réseaux & Télécommunications student
-Status: Probably fixing something broken
+koko
 
-Current mission:
-- survive SAÉ
-- configure machines at 2am
-- understand why the VLAN doesn't work
-- push random projects on GitHub
+$ cat description.txt
+
+18 years old
+Networks & Telecoms student
+Creates projects instead of sleeping
+Sometimes understands subnetting
+Sometimes not
 ```
 
 ---
 
-## ~/about
-
-Je suis étudiant en Réseaux & Télécommunications.
-
-Je poste ici :
-
-* mes projets perso
-* mes SAÉ
-* des tests
-* des trucs qui fonctionnent
-* des trucs qui ne fonctionnent plus après une "petite modification"
-
-J'aime tout ce qui touche :
+# ping passions.local
 
 ```txt
-Linux
-Infrastructure réseau
-Cybersécurité
-Serveurs
-Développement
-Automation
+Reply from passions.local:
+
+bytes=32 time=4ms TTL=64
+
+- Linux
+- Servers
+- Networking
+- Random side projects
+- Trying things that should not work
+- Accidentally breaking things that worked perfectly
 ```
 
 ---
 
-## ~/skills
+# systemctl status brain.service
+
+```txt
+● brain.service - Main Student Process
+
+Status: running
+Memory usage: too much
+CPU usage: 98%
+Sleep usage: unavailable
+Errors:
+ - forgot semicolon
+ - VLAN not responding
+ - why is DHCP broken again
+```
+
+---
+
+# ./skills.sh
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,git,github,vscode,html,css" />
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,js,git,github,vscode,html,css" />
+
 </div>
+
+```txt
+Loading real skills...
+
+[█████████░] Googling errors professionally
+[███████░░░] Linux debugging
+[████████░░] "It works on my machine"
+[██░░░░░░░░] Cable management
+```
 
 ---
 
-## ~/latest_project
+# ls ./projects
 
-```bash
-$ ls projects
-
+```txt
 SAE15/
+more projects soon...
+probably...
 ```
 
-### SAE15
+## SAE15
 
-Premier projet publié sur mon GitHub.
+My first uploaded SAÉ project.
 
-Lien :
+Repository:
 
 [https://github.com/Copsjr57/SAE15](https://github.com/Copsjr57/SAE15)
 
 ---
 
-## ~/system_status
+# traceroute future
 
 ```txt
-Network knowledge      [███████░░░] 72%
-Linux debugging        [████████░░] 81%
-Sleep schedule         [██░░░░░░░░] 12%
-Motivation             [██████████] 100%
-Understanding Cisco    [███░░░░░░░] depends.
+Hop 1 -> survive semester
+Hop 2 -> build cool projects
+Hop 3 -> understand networking
+Hop 4 -> stop restarting machines to fix everything
+Hop 5 -> maybe cybersecurity
 ```
 
 ---
 
-## ~/github_stats
+# cat /var/log/student.log
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Copsjr57&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Copsjr57&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
+```txt
+[02:14] tried fixing network
+[02:16] made it worse
+[02:20] restarted everything
+[02:21] somehow fixed
+```
 
 ---
 
-## ~/fun_fact
+# neofetch
 
 ```txt
-99% of network problems disappear
-when the cable is actually plugged in.
+User: koko
+OS: Linux enjoyer
+Shell: bash
+Uptime: depends on coffee
+Resolution: 1920x1080
+Terminal: vscode
+Education: BUT Réseaux & Télécoms
+Mood: debugging
 ```
 
 ---
@@ -119,7 +145,7 @@ when the cable is actually plugged in.
 <div align="center">
 
 ```txt
-[ SYSTEM ONLINE ]
+[ no packets were harmed during the creation of this profile ]
 ```
 
 </div>
